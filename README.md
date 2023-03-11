@@ -31,6 +31,6 @@ The project use java.io and java.net package for the socket connection
 Run the Server file and run the Client.java file on two or more separate terminals.
 >> This is the message format: `<receiver name> : <your message>`
 > Type the recipient name first, followed by colon ':' then your message.
-> `Austin: How are you doing today?`
+> `Sylvia: How are you doing today?`
 
 You can chat with any other connected client privately.
